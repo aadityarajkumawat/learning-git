@@ -30,3 +30,7 @@ const loadResources = () => {
 
 const RecievedData = loadResources();
 console.log(RecievedData);
+
+// Unload Resources
+const unloadRes = () => [];
+const em = unloadRes();
