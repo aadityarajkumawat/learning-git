@@ -21,3 +21,12 @@ const childAnnualMeet = (festival) => {
 for (let index = 0; index < 30; index++) {
     console.log(index);
 }
+
+// Loading Resources
+
+const loadResources = () => {
+    return ['data', 'timeTaken', 'assets', 'speeds'];
+};
+
+const RecievedData = loadResources();
+console.log(RecievedData);
