@@ -34,3 +34,10 @@ console.log(RecievedData);
 // Unload Resources
 const unloadRes = () => [];
 const em = unloadRes();
+
+const fsadf = loadResources();
+console.log(fsadf);
+
+// Unload Resources
+const mkmk = () => [];
+const efm = mkmk();
