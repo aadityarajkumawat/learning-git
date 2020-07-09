@@ -15,3 +15,9 @@ if (age > 18) {
 const childAnnualMeet = (festival) => {
     console.log(festival);
 };
+
+// Printing numbers from 1 to 20
+
+for (let index = 0; index < 30; index++) {
+    console.log(index);
+}
